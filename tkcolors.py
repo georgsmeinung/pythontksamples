@@ -1,5 +1,9 @@
-# tkcolors.py
-# An app showing all available colors in Tkinter with their names.
+"""
+Tk Colors
+---------
+An app showing all available colors in Tkinter with their names.
+It's possible to copy a color's name by double clicking it
+"""
 
 from tkinter import *
 from ctypes import windll
