@@ -1,3 +1,6 @@
+# tkcolors.py
+# An app showing all available colors in Tkinter with their names.
+
 from tkinter import *
 from ctypes import windll
 
